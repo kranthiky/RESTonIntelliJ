@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="8458" started-at="2022-07-20T16:48:08 IST" finished-at="2022-07-20T16:48:16 IST">
+    <groups>
+    </groups>
+    <test name="RESTonIntelliJ" duration-ms="8458" started-at="2022-07-20T16:48:08 IST" finished-at="2022-07-20T16:48:16 IST">
+      <class name="RESTtests.HTTPMethods">
+        <test-method status="PASS" signature="setup()[pri:0, instance:RESTtests.HTTPMethods@204f30ec]" name="setup" is-config="true" duration-ms="822" started-at="2022-07-20T16:48:08 IST" finished-at="2022-07-20T16:48:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GETmethod(java.lang.reflect.Method)[pri:1, instance:RESTtests.HTTPMethods@204f30ec]" name="GETmethod" duration-ms="2684" started-at="2022-07-20T16:48:09 IST" finished-at="2022-07-20T16:48:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void RESTtests.HTTPMethods.GETmethod(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GETmethod -->
+        <test-method status="PASS" signature="POSTmethod(java.lang.reflect.Method)[pri:2, instance:RESTtests.HTTPMethods@204f30ec]" name="POSTmethod" duration-ms="1269" started-at="2022-07-20T16:48:11 IST" finished-at="2022-07-20T16:48:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void RESTtests.HTTPMethods.POSTmethod(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POSTmethod -->
+        <test-method status="PASS" signature="PUTmethod(java.lang.reflect.Method)[pri:3, instance:RESTtests.HTTPMethods@204f30ec]" name="PUTmethod" duration-ms="1297" started-at="2022-07-20T16:48:12 IST" finished-at="2022-07-20T16:48:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void RESTtests.HTTPMethods.PUTmethod(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PUTmethod -->
+        <test-method status="PASS" signature="PATCHmethod(java.lang.reflect.Method)[pri:4, instance:RESTtests.HTTPMethods@204f30ec]" name="PATCHmethod" duration-ms="1329" started-at="2022-07-20T16:48:14 IST" finished-at="2022-07-20T16:48:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void RESTtests.HTTPMethods.PATCHmethod(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PATCHmethod -->
+        <test-method status="PASS" signature="Deletemethod(java.lang.reflect.Method)[pri:5, instance:RESTtests.HTTPMethods@204f30ec]" name="Deletemethod" duration-ms="1025" started-at="2022-07-20T16:48:15 IST" finished-at="2022-07-20T16:48:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void RESTtests.HTTPMethods.Deletemethod(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletemethod -->
+      </class> <!-- RESTtests.HTTPMethods -->
+    </test> <!-- RESTonIntelliJ -->
+  </suite> <!-- Default Suite -->
+</testng-results>
